@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfcaf2a5-5d26-471b-ab44-2c664f4c4f7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-RabbitMQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/yfsmsystem/producer/ProducerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/yfsmsystem/producer/configuration/DirectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/yfsmsystem/producer/configuration/QueueConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/yfsmsystem/producer/controller/ProducerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/yfsmsystem/producer/dto/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/br/com/yfsmsystem/producer/service/ProducerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/test/java/br/com/yfsmsystem/producer/ProducerApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fY64EIA4AOD2Zjxjo4rDamD4a9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.yfsmsystem.producer.confifuration" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.yfsmsystem.producer.ProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfcaf2a5-5d26-471b-ab44-2c664f4c4f7f" name="Default Changelist" comment="" />
+      <created>1596382485943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596382485943</updated>
+      <workItem from="1596382489404" duration="9655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom" timestamp="1596404418864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596404418864" />
+    <state width="1492" height="210" key="GridCell.Tab.0.center" timestamp="1596404418864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596404418864" />
+    <state width="1492" height="210" key="GridCell.Tab.0.left" timestamp="1596404418864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596404418864" />
+    <state width="1492" height="210" key="GridCell.Tab.0.right" timestamp="1596404418864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596404418864" />
+    <state width="1492" height="210" key="GridCell.Tab.1.bottom" timestamp="1596404418864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596404418864" />
+    <state width="1492" height="210" key="GridCell.Tab.1.center" timestamp="1596404418864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596404418864" />
+    <state width="1492" height="210" key="GridCell.Tab.1.left" timestamp="1596404418864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596404418864" />
+    <state width="1492" height="210" key="GridCell.Tab.1.right" timestamp="1596404418864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596404418864" />
+    <state width="1492" height="261" key="GridCell.Tab.2.bottom" timestamp="1596385081319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596385081319" />
+    <state width="1492" height="261" key="GridCell.Tab.2.center" timestamp="1596385081319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1596385081319" />
+    <state width="1492" height="261" key="GridCell.Tab.2.left" timestamp="1596385081318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1596385081318" />
+    <state width="1492" height="261" key="GridCell.Tab.2.right" timestamp="1596385081319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1596385081319" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1596384459894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1596384459894" />
+    <state x="209" y="73" key="new project wizard" timestamp="1596382884461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596382884461" />
+  </component>
+</project>
